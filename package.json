@@ -1,0 +1,25 @@
+{
+  "name": "vinoshipper",
+  "version": "0.0.1",
+  "description": "The VinoShipper API for Producers.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "node attribution.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VinoShipper/vinoshipper-js.git"
+  },
+  "keywords": [
+    "vinoshipper"
+  ],
+  "author": {
+    "name": "VinoShipper",
+    "url": "https://vinoshipper.com/"
+  },
+  "license": "SEE LICENSE",
+  "bugs": {
+    "url": "https://github.com/VinoShipper/vinoshipper-js/issues"
+  },
+  "homepage": "https://github.com/VinoShipper/vinoshipper-js#readme"
+}
