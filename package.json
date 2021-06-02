@@ -13,13 +13,16 @@
   "keywords": [
     "vinoshipper"
   ],
+  "homepage": "https://github.com/VinoShipper/vinoshipper-js#readme",
+  "bugs": {
+    "url": "https://github.com/VinoShipper/vinoshipper-js/issues"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
   "author": {
     "name": "VinoShipper",
     "url": "https://vinoshipper.com/"
   },
-  "license": "SEE LICENSE",
-  "bugs": {
-    "url": "https://github.com/VinoShipper/vinoshipper-js/issues"
-  },
-  "homepage": "https://github.com/VinoShipper/vinoshipper-js#readme"
+  "engines": {
+    "node": ">=10.*"
+  }
 }
